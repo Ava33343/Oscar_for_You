@@ -1,6 +1,6 @@
-# FintechCaseStudy-homework
-_Fintech_Homework_Unit_1_
 # Oscar for You 
+
+### _A Fintech Case Study_
 **_An interactive experience on health insurance_**
 
 **_Vision: "changing the user interface of health insurance"_**
