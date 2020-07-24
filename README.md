@@ -6,9 +6,9 @@
 **_Vision: "changing the user interface of health insurance"_**
 
 
-**_“redesign[ing] insurance to be geared toward the user experience.”_**
+_**“redesign[ing] insurance to be geared toward the user experience.”**_
 
-**PPT Link: https://drive.google.com/open?id=1l8A9odG3cUsaaDDjXQXGW5b957YRzaog0H6-TPio-_w**
+**[PPT Link](https://drive.google.com/open?id=1l8A9odG3cUsaaDDjXQXGW5b957YRzaog0H6-TPio-_w)**
 
 ## Overview and Origin
 Oscar was incorporated in 2012, headquartered in New York City. Founders of the company are three classmates at Harvard Business School: Mario Schlosser, Josh Kushner, Kevin Nazemi. It launched insurance selling in 2014, the same year as individual mandate and Affordable Care Act exchange went into effect. Oscar is named after one of its co-founders, Kushner's great-grandfather. 
